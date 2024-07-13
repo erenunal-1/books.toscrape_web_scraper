@@ -2,7 +2,7 @@
 
 This project is a web scraping tool to extract book information from the website [Books to Scrape](https://books.toscrape.com). The tool scrapes book titles, prices, and star ratings, and stores the data in a pandas DataFrame.
 
-![Books to Scrape Homepage](homepage_screenshot.png)
+![Books to Scrape Homepage](bookstoscrape.png)
 
 ## Features
 
